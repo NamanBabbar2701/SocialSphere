@@ -1,7 +1,8 @@
 # 📱 SocialSphere – A Facebook-like Social Media Web App
 SocialSphere is a text-based social media web application built using Java EE technologies — Servlets, JSP, and JDBC. It mimics the core functionality of Facebook, allowing users to register, log in, create posts, and comment on others’ posts. All data is managed using an H2 relational database, and the application runs on the Apache Tomcat server.
 
-🚀 Features
+# 🚀 Features
+
 ✅ User registration with username, password, and email
 🔐 Secure user login with authentication
 📝 Create and share text posts
@@ -12,7 +13,7 @@ SocialSphere is a text-based social media web application built using Java EE te
 🔢 Post and comment counts (bonus)
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer       | Technology              |
 | ----------- | ----------------------- |
@@ -24,7 +25,8 @@ SocialSphere is a text-based social media web application built using Java EE te
 | IDE         | Eclipse / IntelliJ IDEA |
 
 
-📚 Educational Objective
+# 📚 Educational Objective
+
 1.This project was built as part of a Java EE learning module to practice core concepts like:
 2.Working with Servlets and JSP
 3.Handling forms and sessions
