@@ -1,0 +1,17 @@
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\comment\dao\CommentDAO.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\comment\dao\CommentDAOImpl.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\comment\model\Comment.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\post\dao\PostDAO.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\post\dao\PostDAOImpl.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\post\model\Post.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\CommentServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\DashboardServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\LoginServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\LogoutServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\PostServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\RegisterServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\servlets\ViewServlet.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\user\dao\UserDAO.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\user\dao\UserDAOImpl.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\user\model\User.java
+C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\src\main\java\com\util\DBUtil.java

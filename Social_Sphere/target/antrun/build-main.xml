@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="C:\Users\naman\Downloads\MIT-ADT-j2ee (2)\MIT-ADT-j2ee\MVC-BookStore\Social_Sphere\target/SocialSphere.war" todir="C:\Users\naman\apache-tomcat-11.0.8\webapps" overwrite="true" />
+  </target>
+</project>
