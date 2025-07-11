@@ -1,37 +1,11 @@
-# 📱 SocialSphere – A Facebook-like Social Media Web App
-SocialSphere is a text-based social media web application built using Java EE technologies — Servlets, JSP, and JDBC. It mimics the core functionality of Facebook, allowing users to register, log in, create posts, and comment on others’ posts. All data is managed using an H2 relational database, and the application runs on the Apache Tomcat server.
+# PreRequsite for Using this project
+1. Download H2 Database Engine jar file (Download Link: https://www.h2database.com/html/cheatSheet.html)
+2. Install and Extract Apache Tomcat {Zip File For Windows /tar.gz for MacOs} (Download Link: https://tomcat.apache.org/download-11.cgi)
+3. Edit pom.xml and paste your apache-tomcat-11.0.8 webapps path in todir  in (Sample <target>
+                                <copy file="${project.build.directory}/${project.build.finalName}.war"
+                                      todir="C:\Users\naman\apache-tomcat-11.0.8\webapps" overwrite="true"/>
+                            </target> )
+4. Edit the path in DBUtil in util folder to the path of your database (Sample  getConnection("jdbc:h2:C:/Users/naman/OneDrive/Desktop/SocialSphereDB", "sa", "");
+5. DBUtil path should be same as your H2 Database path.
 
-# 🚀 Features
-
-✅ User registration with username, password, and email
-🔐 Secure user login with authentication
-📝 Create and share text posts
-📄 View all posts in reverse chronological order
-💬 Comment on any existing post
-🗃️ Data persistence using JDBC with H2 Database
-🔄 Session-based login/logout handling (bonus)
-🔢 Post and comment counts (bonus)
-
-
-# 🛠️ Tech Stack
-
-| Layer       | Technology              |
-| ----------- | ----------------------- |
-| Frontend    | HTML (No CSS/JS)        |
-| Server-side | Java Servlets, JSP      |
-| Backend     | H2 Database             |
-| DB Access   | JDBC                    |
-| Server      | Apache Tomcat 11        |
-| IDE         | Eclipse / IntelliJ IDEA |
-
-
-# 📚 Educational Objective
-
-1.This project was built as part of a Java EE learning module to practice core concepts like:
-2.Working with Servlets and JSP
-3.Handling forms and sessions
-4.Using JDBC for database operations
-5.Structuring a simple MVC web application
-
-Feel free to fork, clone, and contribute! 💡
-
+    
