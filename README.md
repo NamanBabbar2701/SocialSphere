@@ -6,6 +6,6 @@
     todir="C:\Users\naman\apache-tomcat-11.0.8\webapps" overwrite="true"/> </target>)
 5. Edit the path in DBUtil in util folder to the path of your database (Sample  getConnection("jdbc:h2:C:/Users/naman/OneDrive/Desktop/SocialSphereDB", "sa", "");)
 6. DBUtil path should be same as your H2 Database path.
-7. For getting the sample content for at Step 4. get raw copy of Readme
+7. For accessing the sample content at Step 4. get raw copy of Readme
 
     
